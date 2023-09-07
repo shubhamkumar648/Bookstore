@@ -4,9 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
+dist/
 
 # testing
 /coverage
+
+
+# Package files
+*.jar
 
 # production
 /build

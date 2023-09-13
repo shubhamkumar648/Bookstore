@@ -15,7 +15,7 @@ const AddtoCart = () => {
   return (
     <>
     <div className="d-flex  justify-content-between p-3">
-    <h2>Add to cart</h2>
+    <h2>Add to cartss</h2>
     <button onClick={() => navigate("/")}>Go back </button>
 
     </div>
